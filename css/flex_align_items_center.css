@@ -1,6 +1,6 @@
 .myFlexBox{
     display:flex;
-    align-items:center;
+    align-items:center; /* Main Code line */
     height:550px;
     background-color: burlywood;
 }
