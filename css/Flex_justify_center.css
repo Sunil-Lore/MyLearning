@@ -1,0 +1,12 @@
+.myFlexBox{
+    display:flex;
+    justify-content:center;
+    background-color: burlywood;
+}
+.myContentBox{
+    background-color: brown;
+    font: size 36px;
+    margin:20px;
+    padding:20px;
+    width:150px;
+}
