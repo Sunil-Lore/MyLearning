@@ -1,2 +1,6 @@
+print("Converting Integer value to Float: \n")
 a=float(2)
 print(a)
+print("Converting Text value to Integer: \n")
+b=int('1')
+print(b)
