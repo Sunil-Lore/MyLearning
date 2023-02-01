@@ -1,0 +1,51 @@
+div{
+    display:inline-block;
+}
+#div1{
+    outline: 10px solid black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
+#div2{
+    outline: 10px dotted black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
+#div3{
+    outline: 10px dashed black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
+#div4{
+    outline: 10px groove black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
+#div5{
+    outline: 10px ridge black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
+#div6{
+    outline: 10px outset black;
+    width:300px;
+    height:200px;
+    border:12px solid goldenrod;
+    margin:20px;
+    padding:10px;
+}
