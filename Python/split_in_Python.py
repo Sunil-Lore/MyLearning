@@ -1,3 +1,3 @@
 candidate="Sunil Kumar Lore"
-candidate.split()
-print([candidate])
+myList=candidate.split()
+print([myList])
